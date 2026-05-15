@@ -76,8 +76,7 @@ const Landing = ({ onNext }: { onNext: () => void }) => {
       </motion.div>
 
       <motion.h1 variants={itemVariants} className="text-4xl font-extrabold text-white mb-5 leading-[1.15] tracking-tight drop-shadow-lg">
-        Nº 1 EM CONTEMPLAÇÃO <br/>
-        NO <span className="text-[#D4AF37]">BAHIA</span>🥇
+        Guiando você até o <span className="text-[#D4AF37]">Ápice</span> dos seus sonhos 💫
       </motion.h1>
 
       <motion.p 
